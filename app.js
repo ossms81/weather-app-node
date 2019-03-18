@@ -24,7 +24,6 @@ const getInfo = async(direccion) => {
 
     }
 
-
 }
 
 getInfo(argv.direccion)
