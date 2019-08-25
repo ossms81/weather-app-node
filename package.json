@@ -11,6 +11,6 @@
     "license": "ISC",
     "dependencies": {
         "axios": "^0.18.1",
-        "yargs": "^13.2.2"
+        "yargs": "^13.3.0"
     }
 }
